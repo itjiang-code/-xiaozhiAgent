@@ -289,10 +289,6 @@ public String bookAppointment(Appointment appointment) { ... }
 
 ---
 
-## 作者
-
-江小康
-
 ---
 
 ## 许可证
